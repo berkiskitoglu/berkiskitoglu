@@ -7,7 +7,7 @@ A passionate Software developer from Turkey
 🌱 I’m currently learning Asp.net Core & Microservices
 
 
-📫 How to reach me iskitoglu.berk@gmail.com
+📫 How to reach me iskitoglu.halitberk@gmail.com
 
 
 ## 📱Connect with me:
